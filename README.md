@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me 👋
+
+Currently looking for a role as Data Scientist or Backend Developer
+
+
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 
 <!--
 **marciomizuhara/marciomizuhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
