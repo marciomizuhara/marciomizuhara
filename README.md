@@ -16,22 +16,22 @@ Hi, I'm Márcio, Technical Translator and Data Analyst from Brazil, currently lo
 
 ### Main projects
 
-<a href="https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches">World Cup 2002 Matches</a>
+**<a href="https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches">World Cup 2002 Matches</a>**
  
 * This is an automated project I created to scrap World Cup 2022 matches from a website, clean and organize it into a dataframe then convert it to a excel spreadsheet to be inserted into a PowerBI dashboard.  
 Repository: https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches 
 
-<a href="https://github.com/marciomizuhara/Exploratory-Data-Analysis-Projects/tree/main/BrazilFootballStatsIn2022">Brazil World Cup 2022 Qualification Stats</a>
+**<a href="https://github.com/marciomizuhara/Exploratory-Data-Analysis-Projects/tree/main/BrazilFootballStatsIn2022">Brazil World Cup 2022 Qualification Stats</a>**
 
 * This project uses the Brazil Football Stats in 21/22 (World Cup qualification + Friendlies) dataset available on Kaggle containing three spreadsheets, which I divided into two dataframes: 'main' and 'shootings'.  
 Repository: https://github.com/marciomizuhara/Exploratory-Data-Analysis-Projects/tree/main/BrazilFootballStatsIn2022
 
-<a href="https://github.com/marciomizuhara/AlbumChallenge">Album Challenge - A Discord bot</a>
+**<a href="https://github.com/marciomizuhara/AlbumChallenge">Album Challenge - A Discord bot</a>**
 
 * This is a Discord bot I created for my discord music server with plenty of tools. It was built around the idea of having a music challenge on the server.  
 Repository: https://github.com/marciomizuhara/AlbumChallenge
 
-<a href="https://github.com/marciomizuhara/PoETactics">PoETactics</a>
+**<a href="https://github.com/marciomizuhara/PoETactics">PoETactics</a>**
 
 * This is an ongoing project that I have been "literally" playing around it. It's a PyGame-built idle RPG game with characters from the Final Fantasy Tactics series, however, with some of Path of Exile mechanics.  
 Repository: https://github.com/marciomizuhara/PoETactics
