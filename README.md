@@ -16,7 +16,7 @@ Hi, I'm Márcio, Technical Translator and Data Analyst from Brazil, currently lo
 
 ### Main projects
 
-**<a href="https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches">World Cup 2002 Matches</a>**
+**<a href="https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches">World Cup 2022 Matches</a>**
  
 * This is an automated project I created to scrap World Cup 2022 matches from a website, clean and organize it into a dataframe then convert it to a excel spreadsheet to be inserted into a PowerBI dashboard.  
 Repository: https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches 
