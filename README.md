@@ -1,8 +1,12 @@
 ## About Me
 
-Hi, I'm **Márcio**, a **Technical Translator** and **Data Engineer** from Brazil, passionate about data, automation, and software development.
+Data Engineer and Big Data Analyst with a strong background in technical documentation and data-focused software projects.
 
-Currently, I'm looking for new opportunities as a **Data Engineer** where I can apply my expertise in Python, databases, and data processing.
+I work with data modeling, SQL, ETL pipelines, and backend integrations, building practical solutions that transform raw data into structured, searchable, and usable information.
+
+In parallel, I have extensive experience translating and reviewing high-complexity technical content for publishers such as O’Reilly and Novatec, focused on data engineering, machine learning, APIs, and modern software architectures. This background strengthens my ability to understand systems deeply and communicate technical concepts with clarity and precision.
+
+Currently focused on building data-driven applications and pipelines using Python, SQL, and modern backend tools.
 
 ---
 
@@ -11,9 +15,9 @@ Currently, I'm looking for new opportunities as a **Data Engineer** where I can 
 ### Programming & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
-
+  
 ### Data Engineering
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
