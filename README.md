@@ -1,39 +1,30 @@
 ## About Me
 
-Data Engineer and Big Data Analyst with a strong background in technical documentation and data-focused software projects.
+Hi, I'm **Márcio**, a **Technical Translator** and **Data Engineer** from Brazil, passionate about data, automation, and software development.
 
-I work with data modeling, SQL, ETL pipelines, and backend integrations, building practical solutions that transform raw data into structured, searchable, and usable information.
-
-In parallel, I have extensive experience translating and reviewing high-complexity technical content for publishers such as O’Reilly and Novatec, focused on data engineering, machine learning, APIs, and modern software architectures. This background strengthens my ability to understand systems deeply and communicate technical concepts with clarity and precision.
-
-Currently focused on building data-driven applications and pipelines using Python, SQL, and modern backend tools.
-
+Currently, I'm looking for new opportunities as a **Data Engineer** where I can apply my expertise in Python, databases, and data processing.
 
 ---
 
 ## 🚀 Skills
 
-### Programming & Frameworks
+### Programming & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
 
-### Databases & Data Engineering
+### Data Engineering
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)  
 
-### Data Analysis & Visualization
+### Data Analysis
 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)  
 
 ---
 
@@ -42,7 +33,6 @@ Currently focused on building data-driven applications and pipelines using Pytho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-martins-48052114/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marciomizuhara)  
 
-> I update my **#100DaysOfCode** challenge daily on both social media.
 
 ---
 
