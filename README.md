@@ -2,11 +2,12 @@
 
 Data Engineer and Big Data Analyst with a strong background in technical documentation and data-focused software projects.
 
-I work with data modeling, SQL, ETL pipelines, and backend integrations, building practical solutions that transform raw data into structured, searchable, and usable information.
+I work with data modeling, SQL, ETL pipelines, and backend integrations, building practical solutions that transform raw data into structured, searchable, and maintainable datasets.
 
-In parallel, I have extensive experience translating and reviewing high-complexity technical content for publishers such as O’Reilly and Novatec, focused on data engineering, machine learning, APIs, and modern software architectures. This background strengthens my ability to understand systems deeply and communicate technical concepts with clarity and precision.
+In parallel, I have extensive experience translating and reviewing high-complexity technical content for publishers such as O’Reilly and Novatec, focused on data engineering, machine learning, APIs, and modern software architectures. This background allows me to deeply understand systems and produce clear, precise, and consistent technical documentation.
 
-Currently focused on building data-driven applications and pipelines using Python, SQL, and modern backend tools.
+Currently focused on building data-driven applications and pipelines using Python and SQL, with strong emphasis on clear technical documentation, system clarity, and maintainable data architectures.
+
 
 ---
 
@@ -15,8 +16,9 @@ Currently focused on building data-driven applications and pipelines using Pytho
 ### Programming & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
   
 ### Data Engineering
 
@@ -42,13 +44,31 @@ Currently focused on building data-driven applications and pipelines using Pytho
 
 ## 🏆 Main Projects
 
-### [World Cup 2022 Matches](https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches)
+### [MyQuotes](https://github.com/marciomizuhara/MyQuotes)
 
-A fully automated project that scrapes World Cup 2022 matches, cleans, and organizes the data into a **DataFrame**, then converts it into an **Excel spreadsheet** for Power BI dashboard integration.
+A data-driven web application built with **Flask** and **SQL** to ingest, process, and organize literary highlights extracted from Kindle exports. The project implements data modeling, ETL workflows, and structured storage to transform raw text into **searchable, normalized datasets**, supporting efficient querying, analysis, and long-term data management.
+
 
 🔗 [Repository](https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches)
 
----
+
+### [MyQuotes (Flutter)](https://github.com/marciomizuhara/MyQuotes-Flutter)
+
+A cross-platform **Flutter** application designed as the client layer for a data-driven literary system. The app consumes structured data via **RPC and SQL-backed services**, providing search, filtering, and navigation over normalized datasets derived from processed Kindle highlights, with emphasis on clarity, performance, and maintainable data-driven UI flows.
+
+
+🔗 [Repository](https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches)
+
+
+
+### [World Cup 2022 Matches](https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches)
+
+A fully automated project that scrapes World Cup 2022 matches, cleans, and organizes the data into a **DataFrame**, then exports structured datasets for downstream analysis and dashboard integration.
+
+
+🔗 [Repository](https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches)
+
+
 
 ### [Brazil World Cup 2022 Qualification Stats](https://github.com/marciomizuhara/Exploratory-Data-Analysis-Projects/tree/main/BrazilFootballStatsIn2022)
 
@@ -56,7 +76,7 @@ This project analyzes **Brazil's Football Stats (2021/22)**, covering **World Cu
 
 🔗 [Repository](https://github.com/marciomizuhara/Exploratory-Data-Analysis-Projects/tree/main/BrazilFootballStatsIn2022)
 
----
+
 
 ### [Album Challenge - A Discord Bot](https://github.com/marciomizuhara/AlbumChallenge)
 
@@ -66,12 +86,5 @@ A **Discord bot** built for my **music server**, providing interactive tools and
 
 ---
 
-### [PoETactics](https://github.com/marciomizuhara/PoETactics)
-
-An ongoing project where I'm **experimenting with game mechanics**. Built using **PyGame**, this is an **idle RPG** featuring characters from **Final Fantasy Tactics**, incorporating mechanics from **Path of Exile**.
-
-🔗 [Repository](https://github.com/marciomizuhara/PoETactics)
-
----
 
 📌 *Thanks for stopping by! Feel free to check out my projects or connect with me.* 🚀
