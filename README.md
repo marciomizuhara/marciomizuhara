@@ -44,20 +44,20 @@ Currently focused on building data-driven applications and pipelines using Pytho
 
 ## 🏆 Main Projects
 
-### [MyQuotes](https://github.com/marciomizuhara/MyQuotes)
+### [MyQuotes - Data & Application Backend](https://github.com/marciomizuhara/MyQuotes)
 
 A data-driven web application built with **Flask** and **SQL** to ingest, process, and organize literary highlights extracted from Kindle exports. The project implements data modeling, ETL workflows, and structured storage to transform raw text into **searchable, normalized datasets**, supporting efficient querying, analysis, and long-term data management.
 
 
-🔗 [Repository](https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches)
+🔗 [Repository](https://github.com/marciomizuhara/MyQuotes)
 
 
-### [MyQuotes (Flutter)](https://github.com/marciomizuhara/MyQuotes-Flutter)
+### [MyQuotes - Flutter](https://github.com/marciomizuhara/MyQuotes-Flutter)
 
 A cross-platform **Flutter** application designed as the client layer for a data-driven literary system. The app consumes structured data via **RPC and SQL-backed services**, providing search, filtering, and navigation over normalized datasets derived from processed Kindle highlights, with emphasis on clarity, performance, and maintainable data-driven UI flows.
 
 
-🔗 [Repository](https://github.com/marciomizuhara/PowerBI-Projects/tree/main/WorldCup2022Matches)
+🔗 [Repository](https://github.com/marciomizuhara/myquotes-flutter)
 
 
 
