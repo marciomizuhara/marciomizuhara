@@ -44,12 +44,11 @@ Currently focused on building data-driven applications and pipelines using Pytho
 
 ## 🏆 Main Projects
 
-### [MyQuotes - Data & Application Backend](https://github.com/marciomizuhara/MyQuotes)
+### [MyQuotes - Importer & Data Ingestion Pipeline](https://github.com/marciomizuhara/myquotes-importer)
 
-A data-driven web application built with **Flask** and **SQL** to ingest, process, and organize literary highlights extracted from Kindle exports. The project implements data modeling, ETL workflows, and structured storage to transform raw text into **searchable, normalized datasets**, supporting efficient querying, analysis, and long-term data management.
+A data-driven ETL pipeline built with Python and SQL-backed services to ingest, process, and normalize literary highlights extracted from Kindle exports. The project implements deterministic ETL workflows, semantic validation, and structured persistence to transform raw clippings into queryable, normalized datasets, supporting reliable ingestion, analysis, and long-term data consistency within the MyQuotes ecosystem.  
 
-
-🔗 [Repository](https://github.com/marciomizuhara/MyQuotes)
+🔗 [Repository](https://github.com/marciomizuhara/myquotes-importer)
 
 
 ### [MyQuotes - Flutter](https://github.com/marciomizuhara/MyQuotes-Flutter)
